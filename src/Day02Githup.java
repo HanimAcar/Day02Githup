@@ -17,6 +17,8 @@ public class Day02Githup {
   
   Not: Githup ogrendim
   Not: Tekrar gıthup yollladık
+  jskajhdsajdpASH
+
 
      */
 
