@@ -13,6 +13,7 @@ public class Day02Githup {
 
   Not:Yukarıdakı bu iki komutu tek seferde kullandıktan  sonra ikinci commit'lerim icin sadece git push
   kullanırız.
+  Not:git log --oneline -->commitlerımdekı yanı versıyonlardakı durumu gosterırgit
      */
 
 }
