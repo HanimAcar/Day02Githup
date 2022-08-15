@@ -16,6 +16,8 @@ public class Day02Githup {
   Not:git log --oneline -->commitlerımdekı yanı versıyonlardakı durumu gosterırgit
   
   Not: Githup ogrendim
+  Not: Tekrar gıthup yollladık
+
      */
 
 }
