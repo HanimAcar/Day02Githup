@@ -12,7 +12,7 @@ public class Day02Githup {
     git push -u origin master
 
   Not:Yukarıdakı bu iki komutu tek seferde kullandıktan  sonra ikinci commit'lerim icin sadece git push
-  kullanırız
+  kullanırız.
      */
 
 }
